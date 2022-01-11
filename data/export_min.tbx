@@ -1,0 +1,5266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE martif SYSTEM "TBXcoreStructV02.dtd">
+<martif type="TBX-Default" xml:lang="en">
+  <martifHeader>
+    <fileDesc>
+      <sourceDesc>
+        <p>This is a TBX file downloaded from the IATE website. Address any enquiries to iate@cdt.europa.eu.</p>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p type="XCSURI">TBXXCS.xcs</p>
+    </encodingDesc>
+  </martifHeader>
+  <text>
+    <body>
+      <termEntry id="IATE-84">
+        <descripGrp>
+          <descrip type="subjectField">1011</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Zuständigkeit der Mitgliedstaaten</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>competence of the Member States</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>competencias de los Estados miembros</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>compétence des États membres</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>competenza degli Stati membri</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>bevoegdheid van de lidstaten</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>kompetencje państw członkowskich</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>competência dos Estados-Membros</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>competența statelor membre ale Uniunii Europene</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>medlemsstaternas behörighet</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-28492">
+        <descripGrp>
+          <descrip type="subjectField">6416</descrip>
+          <note>Nice Classification</note>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Dienstleistungen eines Industriedesigners</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>industrial design</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>diseño industrial</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>dessin industriel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>disegni industriali</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>industrieel ontwerpen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>technisch tekenen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>projektowanie przemysłowe</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>wzornictwo przemysłowe</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>desenho industrial</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>proiectare industrială</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>industridesign</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29040">
+        <descripGrp>
+          <descrip type="subjectField">2036</descrip>
+          <note>retail trade</note>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Einzelhandel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Einzelhandelsgewerbe</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Einzelhandelssektor</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>retail industry</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>retail sector</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>sector comercial minorista</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sector de la distribución comercial</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sector minorista</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>secteur de la distribution</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>dettaglianti</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>rete distributiva</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>settore del commercio al dettaglio</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>detailhandel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>kleinhandel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>sektor detaliczny</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>setor retalhista</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>sectorul comerțului cu amănuntul</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>detaljhandel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29309">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Lufttüchtigkeit</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>airworthiness</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>aeronavegabilidad</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>navegabilidad aérea</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>navigabilité</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>aeronavigabilità</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>attitudine al volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>navigabilità</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>luchtwaardigheid</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>zdatność do lotu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>aeronavegabilidade</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">4</descrip>
+          </tig>
+          <tig>
+            <term>navegabilidade</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>navigabilitate</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>luftvärdighet</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29331">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Hilfsmotor</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Hilfstriebwerk</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>auxiliary power unit</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>grupo auxiliar de energía</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>unidad de potencia auxiliar</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>GAP</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>groupe auxiliaire de puissance</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>APU</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>gruppo ausiliario di potenza</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>unità di potenza ausiliaria</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>hulpaggregaat</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>pomocnicze źródło zasilania</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>pomocniczy zespół napędowy</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>pomocniczy zespół zasilania</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>unidade auxiliar de potência</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>unitate auxiliară de alimentare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>hjälpkraftsaggregat</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>reservkraftaggregat</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29357">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>gewerbliche Beförderung</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>gewerblicher Luftverkehr</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>gewerbsmäßige Beförderung</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>gewerbsmäßiger Luftverkehr</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>commercial air transport</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>commercial air transportation</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>transporte aéreo comercial</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>transport aérien commercial</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>trasporto aereo commerciale</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>commercieel luchttransport</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>commercieel luchtvervoer</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>commercieel vervoer door de lucht</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>przewóz lotniczy</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>zarobkowy przewóz lotniczy</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>zarobkowy transport lotniczy</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>transporte aéreo comercial</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>transport aerian comercial</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>kommersiell flygtransport</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29390">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>DA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Entscheidungshöhe über MSL</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>DA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>decision altitude</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>DA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>DA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>altitude de décision</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>DA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>altitudine di decisione</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>beslissingshoogte</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>DA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>wysokość bezwzględna decyzji</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>wysokość decyzji odniesiona do poziomu morza, bezwzględna</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>altitude de decisão</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>DA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>altitudine de luare a deciziei</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>DA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>beslutshöjd</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29391">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>DH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Entscheidungshöhe</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Entscheidungshöhe über der Schwelle</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>DH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>decision height</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>DH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>altura de decisión</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>DH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>hauteur de décision</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>DH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>quota di decisione</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>beslissingshoogte</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>DH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>wysokość decyzji odniesiona do poziomu lotniska, względna</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>wysokość względna decyzji</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>altura de decisão</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>DH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>inaltime de luare a deciziei</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>DH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>beslutshöjd</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29425">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Flughandbuch</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Flugzeughandbuch</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>AFM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>aeroplane flight manual</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>aircraft flight manual</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>flight manual</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>manual de vuelo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>manual de vuelo de la aeronave</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>manuel de vol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>manuel de vol de l'aéronef</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>manuale di volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>manuale di volo (di un aeromobile)</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>vlieghandboek</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>instrukcja użytkowania w locie statku powietrznego</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>manual de voo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>manual de voo da aeronave</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>manualul de zbor al aeronavei</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>flyghandbok</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>luftfartygets flyghandbok</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29426">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Flugbetrieb</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>flight operation</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>operación de vuelo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>opérations aériennes</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>operazione di volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>operazioni di volo (servizio delle -)</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>vluchtuitvoering</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>operacje lotnicze</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>operação de voo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>operațiune de zbor</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>flygverksamhet</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29442">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Flugzeugrumpf</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Rumpf</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>fuselage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>fuselaje</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>fuselage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>fusoliera</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>fuselage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>romp</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>kadłub</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>fuselagem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>fuzelaj</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>flygkropp</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>flygplanskropp</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29469">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Flug nach Instrumentenflugregeln</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>IFR-Flug</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>IFR flight</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>vuelo IFR</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>vol I.F.R.</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>volo IFR</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>IFR-vlucht</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>lot IFR</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>voo IFR</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>zbor IFR</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>IFR-flygning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29534">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Sinkflugmindesthöhe</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>MDH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>minimum descent altitude/height</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>minimum descent height</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>MDH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>MDH - hauteur minimale de descente</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>MDH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>MDH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>minimum dalingshoogte</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>minimumdalingshoogte</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>MDH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>minimalna bezwzględna lub względna wysokość schodzenia</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>minimalna wysokość zniżania</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>minimalna względna wysokość schodzenia</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>altura mínima de descida</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>MDH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>înălțime minimă de coborâre</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>minimihöjd för nedstigning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29551">
+        <descripGrp>
+          <descrip type="subjectField">3606, 48, 4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>NDB</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>NDB</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>non directional radio beacon</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>non-directional radio beacon</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>NDB</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>radiofaro no direccional</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>NDB</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>radiobalise à orientation aléatoire</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>radiophare non directionnel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>NDB</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>radiofaro non direzionale</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>NDB</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>non-directional radio beacon</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>ongericht radiobaken</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>NDB</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>radiolatarnia bezkierunkowa</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>NDB</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>radiofarol não direcional</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>NDB</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>radiofar nedirecțional</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>NDB</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>oriktad navigeringsfyr</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>radiofyr som sänder oriktade radiosignaler</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29559">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>OCH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>OCH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>obstacle clearance altitude /height</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="administrativeStatus">deprecatedTerm-admn-sts</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>obstacle clearance height</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>OCH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>OCH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>hauteur de dégagement d’obstacle</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>OCH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>minimum hindernisvrije hoogte</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>OCH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>wysokość względna zapewniająca minimalne przewyższenie nad przeszkodami</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>altura livre de obstáculos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>OCH</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>înălțime de trecere peste obstacole</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>höjd för hinderfrihet (OCH)</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29563">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+          <note>Aviation,</note>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Flugdurchführungsplan</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>operational flight plan</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>plan de vuelo operativo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>plan de vol exploitation</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>piano di volo operativo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>navigatieplan</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>operacyjny plan lotu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>plano de voo operacional</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>plan de zbor operațional</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>driftfärdplan</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29580">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Motorsegler</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>powered sailplane</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>planeador</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>motoplaneur</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>motoaliante</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>gemotoriseerd zweefvliegtuig</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>motorzweefvliegtuig</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>motoszybowiec</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>szybowiec z napędem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>planador motorizado</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>motoplanor</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>planor motorizat</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>motordrivet segelflygplan</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29585">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Vorflugkontrolle</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pre-flight check</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>pre-flight checking</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>pre-flight inspection</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>preflight inspection</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>inspección previa al vuelo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>inspección prevuelo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>contrôle pré-vol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+          <tig>
+            <term>inspection pré-vol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>visite prévol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>vérification avant le vol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>ispezione pre-volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>aan de vlucht voorafgaande inspectie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>przegląd przedlotowy</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>inspeção prévia de voo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>inspecție premergătoare zborului</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>tillsyn före flygning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29650">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Unterschallgeschwindigkeit</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>subsonic speed</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>velocidad subsónica</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>vitesse subsonique</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>velocità subsonica</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>subsone snelheid</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>subsonische snelheid</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>prędkość poddźwiękowa</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>velocidade subsónica</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>viteză subsonică</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>underljudsfart</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29670">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Aufsetzen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>touchdown</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>toma de contacto</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>toucher</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>contatto</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>landingsdoelpunt</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>punkt przyziemienia</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>impacto</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>punct de luare a contactului cu pista</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>sättning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29867">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>ASDA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>verfügbare Startabbruchstrecke</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>verfügbare Startlaufabbruchstrecke</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ASDA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Accelerate-Stop Distance Available</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>accelerate-stop distance available</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>ASDA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>distancia de aceleración-parada disponible</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>ASDA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>distance accélération-arrêt utilisable</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>distance d’accélération-arrêt utilisable</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>distance utilisable pour l'accélération-arrêt</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>ASDA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Distanza disponibile per accelerazione - arresto</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>distanza accerlerazione-arresto</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>distanza disponibile di accelerazione e arresto</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>beschikbare baanlengte voor de start plus de lengte van de stopway</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>beschikbare noodstopafstand</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>beschikbare start-stoptlengte</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>ASDA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>rozporządzalna długość przerwanego startu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>distância disponível para aceleração e paragem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>ASDA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>distanța de accelerare și oprire disponibilă</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>distanța de accelerare-oprire disponibilă</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>ASDA</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>tillgänglig start-stoppsträcka</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29904">
+        <descripGrp>
+          <descrip type="subjectField">3226, 4826</descrip>
+          <note>navigation</note>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Flugsicherheit</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>flight safety</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>seguridad de vuelo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>sécurité des vols</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sécurité du vol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sécurité en vol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>sicurezza dei voli</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+          <tig>
+            <term>sicurezza del volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sicurezza di volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>vliegveiligheid</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>bezpieczeństwo lotu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>segurança de voo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>siguranța zborului</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>flygsäkerhet</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29907">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Bruchlandung</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Notlandung</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>emergency landing</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>forced landing</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>aterrizaje de emergencia</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>aterrizaje forzoso</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>atterrissage d'urgence</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>atterrissage forcé</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>atterraggio di emergenza</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>atterraggio forzato</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>gedwongen landing</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+          <tig>
+            <term>noodlanding</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>awaryjne lądowanie</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>aterragem de emergência</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>aterragem forçada</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>aterizare de urgență</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>nödlandning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>nödlandning på land</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29909">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Bauvorschriften</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Lufttüchtigkeitsforderungen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Lufttüchtigkeitsspezifikation</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>airworthiness code</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>código de aeronavegabilidad</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>code de navigabilité</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>règlement de navigabilité</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>règlement/code de navigabilité</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>codice di aeronavigabilità</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>(stelsel van) luchtwaardigheidsvoorschriften</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>przepis w zakresie zdatności do lotu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>código de aeronavegabilidade</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>normas de navegabilidade</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>cod de navigabilitate</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>luftvärdighetsbestämmelser</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>luftvärdighetskod</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29923">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Lärmzeugnis</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>noise certificate</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>certificado acústico</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>certificado de niveles de ruido</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>certificat acoustique</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>certification acoustique</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>certificato acustico</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>geluidscertificaat</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>świadectwo zdatności w zakresie hałasu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>Certificado de Ruído</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>certificat de zgomot</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>miljövärdighetsbevis</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>miljövärdighetsbevis (buller)</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29951">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Langstreckenbetrieb mit zweimotorigen Flugzeugen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ETOPS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Extended Range Operation Twin Engined Aeroplanes</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>operación de radio amplio de aviones bimotores</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>ETOPS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Exploitation d'avions bimoteurs en long-courrier</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>ETOPS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>ETOPS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>gebruik van tweemotorige vliegtuigen over langere afstanden</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>ETOPS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>operacje o wydłużonym zasięgu samolotami dwusilnikowymi</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>(ETOPS) Exploração de aviões bimotores num raio alargado</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>ETOPS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Operațiuni pe rază extinsă cu avioane dotate cu două motoare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>långdistansflygning med tvåmotoriga flygplan</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29973">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Wetterdienste</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>MET</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>meteorological services</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>meteorological services for air navigation</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>servicios meteorológicos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>services météorologiques</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>services météorologiques aéronautiques</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>Servizio Meteorologico Aeronautico</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>servizi meteorologici</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>dienstverlening op meteorologisch gebied</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>meteorologische diensten</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>lotnicze służby meteorologiczne</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>służby meteorologiczne</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>serviços de meteorologia</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>serviços meteorológicos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>servicii meteorologice</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>servicii meteorologice aeronautice</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>MET</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>flygvädertjänst</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>meteorologisk tjänst</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-29985">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>höchstzulässige Startmasse</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>MTOM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>maximum take-off mass</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>MTOM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>masa máxima al despegue</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>masa máxima de despegue</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>MTOM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>masse maximale au décollage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>massa massima al decollo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>MTOM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>maximumstartgewicht</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>MTOM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>maksymalna masa startowa</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>MTOM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>massa máxima à descolagem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>MTOM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>masă maximă la decolare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>maximal startmassa</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30031">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+          <note>Aviation,</note>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Sicht</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>visibility</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>visibilidad</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>visibilité</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>visibilità</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>zicht</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>widzialność</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>visibilidade</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>vizibilitate</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>sikt</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30033">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Bestimmungsausweichflugplatz</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>destination alternate</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>destinos alternativos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>dégagement à destination</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>aeroporto alternato a destinazione</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>bestemmingsuitwijkhaven</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>lotnisko zapasowe dla lotniska docelowego</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>lotnisko zapasowe docelowe</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>alternante de destino</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">4</descrip>
+          </tig>
+          <tig>
+            <term>destino alternante</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>aerodrom de rezervă la destinație</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>alternativ destinationsflygplats</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>alternativ för destination</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30053">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Endreserve</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>final reserve fuel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>reserva final de combustible</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>réserve finale de carburant</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>riserva finale di combustibile</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>eindreservebrandstof</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>ostateczna rezerwa paliwa</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>combustível de reserva final</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>rezervă finală de combustibil</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>slutlig bränslereserv</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30059">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>technisches Bordbuch</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>technical log</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>libro técnico</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>registro técnico</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>carnet technique</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+          <tig>
+            <term>compte rendu matériel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>livret technique</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>quaderno tecnico</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>quaderno tecnico di bordo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>technisch journaal</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>technisch logboek</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>dziennik techniczny</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>caderneta técnica</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>diário técnico</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>jurnal tehnic</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>teknisk journal</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30065">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Brandschott</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Druckschott</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Schott</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Trennwand</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>bulkhead</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>mamparo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>cloison</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>ordinata</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>ordinata chiusa</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>ordinata di forza</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>paratia</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>schot</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>spant</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>wręga wzmocniona</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>antepara</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>perete de compartimentare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>skott</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>vägg</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30106">
+        <descripGrp>
+          <descrip type="subjectField">3606, 48, 4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>DME-Anlage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Entfernungsmessgerät</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>Entfernungsmessinstrumente</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>DME</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>distance measuring equipement</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>DME</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>equipo de medición de distancias</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>equipo di medida de distancia</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>sistema telemétrico de tierra</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>telémetro</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>DME</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>dispositif de mesure de distance</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>équipement de mesure de distance</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>DME</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>apparecchiatura per la misurazione della distanza</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>dispositivo per la misurazione della distanza</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>(elektronische) afstandsmeter</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>DME</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>afstandmeetapparatuur</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>distance measuring equipment</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>installatie voor het bepalen van afstand</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>DME</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>radiodalmierz</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>urządzenia do pomiaru odległości</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>dispositivo para avaliação de distâncias</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>equipamento de medição de distância</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>DME</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>echipament de măsurare a distanței</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>DME</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>avståndsmätningsutrustning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>utrustning för mätning av avstånd till sändare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30133">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>automatisches Flugsteuerungssystem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>AFCS</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>automatic flight control system</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>sistema automático de control de vuelo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sistema de control automático del vuelo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>CADV</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+          <tig>
+            <term>système automatique de commande de vol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>système de commandes de vol automatique</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>systèmes de commande automatiques de vol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>autocomando</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>controllo automatico di volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sistema automatico di controllo del volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sistema di controllo automatico del volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sistema per il volo automatico</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>AFCS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>automatisch besturingssysteem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>automatisch vluchtbesturingssysteem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>automatyczny system kontroli lotu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>automatyczny układ sterowania lotem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>sistema de controlo de voo automático</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>AFCS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>sistem automat de control al zborului</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>automatiska styrsystem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>flygdirektor</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30145">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Bordausrüstung</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>airborne equipment</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>equipos de a bordo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>équipements embarqués</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>equipaggiamenti di bordo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>equipaggiamento a bordo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>boordapparatuur</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>boorduitrusting</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>wyposażenie pokładowe</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>equipamento de navegação</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>echipament de bord</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>flygburen utrustning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30191">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Druckhöhe</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>pressure altitude</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>altitud barométrica</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>altitud de presión</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>altitude-pression</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>altitudine-pressione</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>quota barometrica</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>drukhoogte</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>barometryczna wysokość bezwzględna</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>altitude de pressão</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>altitudine-presiune</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>tryckhöjd</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30269">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Startlauf</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>takeoff roll</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>recorrido de despegue</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>roulement au décollage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>corsa di decollo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>aanloop</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>rozbieg</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>corrida de descolagem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>rolagem de descolagem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>rulare la decolare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>rullning för start</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30398">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Instrumentenbrett</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Instrumententafel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>instrument panel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>panel de instrumentos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>tablero de instrumentos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>panneau instruments</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>planche de bord</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>cruscotto</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>panelli strumenti</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>pannello strumenti</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>instrumentenbord</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>instrumentenpaneel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>tablica przyrządów</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>painel de instrumentos</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>tablou de bord</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>instrumentpanel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30412">
+        <descripGrp>
+          <descrip type="subjectField">4826, 6411</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>ACAS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Kollisionswarnsystem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>bordseitige Kollisionschutzanlage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>bordseitiges Kollisionswarnsystem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>ACAS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>airborne collision avoidance system</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>ACAS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sistema anticolisión de a bordo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>ACAS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>système anti-abordage embarqué</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>système anticollision embarqué</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>ACAS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>apparato di bordo per la prevenzione delle collisioni in volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>impianto di prevenzione delle collisioni in volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sistema anticollisione a bordo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sistema di anticollisioni di bordo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sistema di bordo per prevenzione delle collisioni in volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>ACAS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>systeem voor het vermijden van botsingen in de lucht</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>pokładowy system unikania kolizji</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>pokładowy system zapobiegania kolizjom</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>ACAS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sistema anticolisão de bordo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sistema de navegação de prevenção de colisão</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sistema preventivo de colisão em voo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>ACAS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>sistem de evitare a coliziunii în zbor</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>flygburet kollisionsavvärjande system</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>flygburet kollisionsvarningssystem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30545">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Bescheinigung der Freigabe zum Betrieb</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+          <tig>
+            <term>CRS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Freigabebescheinigung</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>CRS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>MRC</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>certificate of release to service</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>maintenance release certificate</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>certificado de aptitud para el servicio</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>certificat d'approbation pour remise en service</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>certificat de remise en service</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>certificato di manutenzione</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>certificato di riammissione in servizio</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>certificato di rimessa in servizio</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>CRS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>bewijs van vrijgave voor de dienst</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+          <tig>
+            <term>certificaat van vrijgave voor gebruik</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>poświadczenie obsługi</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>Certificado de Aptidão para Serviço</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>certificado de aptidão para serviço</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>certificado de habilitação para voo do avião</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>CRS</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>certificat de dare în exploatare</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>certificat de punere în serviciu</term>
+            <termNote type="termType">fullForm</termNote>
+            <termNote type="administrativeStatus">preferredTerm-admn-sts</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>intyg om idrifttagande</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+          <tig>
+            <term>underhållsintyg</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30552">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Flugumlauf</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Flugzyklus</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Gesamtanzahl der Flüge des Flugzeugs</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>flight cycle</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>ciclo de vuelo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>cycle de vol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>ciclo di volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>vluchtcyclus</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>cykl lotów</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>ciclo de voo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>ciclu de zbor</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>antalet flygningar</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>flygcykel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30584">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>CRM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>effektives Arbeiten als Besatzung (Crew Ressource Management)</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>CRM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>Crew Resource Management</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>gestión de recursos de tripulación</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>gestion des ressources de l'équipage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>gestion des ressources humaines et matérielles de l'équipage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>gestion des ressources équipage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>gestione delle risorse dell'equipaggio</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>beheer van en betrekkingen tussen boordpersoneel</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>boordpersoneelsbeheer</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>CRM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>gestão de recursos de pessoal</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>gestão de recursos de pessoal de voo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>CRM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>managementul resurselor echipajului</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>CRM</term>
+            <termNote type="termType">abbreviation</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>besättningssamarbete</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>hantering av besättningsresurser</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30599">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Kopilot, der zur Ablösung im Reiseflug qualifiziert ist</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cruise relief co-pilot</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>copiloto de relevo en crucero</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>copilote de relève en croisière</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>copilote de renfort en croisière</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>copilota di rinforzo in crociera</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>bestuurder ter aflossing van de tweede bestuurder tijdens kruisvlucht</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>pilot zastępujący podczas przelotu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>copiloto de cruzeiro de substituição</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>copilot suplimentar pentru rută</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>biträdande avlösningspilot</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30639">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Kabine</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>aircraft cabin</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>cabin</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>cabina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>cabine</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>cabina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>compartimento per i passeggeri</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>cabine</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>kajuit</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>kabina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>cabina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>cabină</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>kabin</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30659">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Wegpunkt</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>WYPT</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Waypoint</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>way-point</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>waypoint</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>puntos de referencia</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>point de cheminement</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>points de cheminement</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>punto di via</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>routepunt</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>punkt drogi</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>ponto de referência</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>punct de drum</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>brytpunkt</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30665">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Flugbegleiter</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>cabin attendant</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>cabin crew member</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>miembro de la tripulación de cabina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>miembro de la tripulación de cabina de pasajeros</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>membre d'équipage de cabine</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>membro di equipaggio di cabina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>lid van de kajuitbemanning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>członek personelu pokładowego</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>membro da tripulação de cabina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>tripulante de cabina</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>membru al echipajului de cabină</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>kabinbesättningsmedlem</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-30712">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Flugbereich</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Flugbetriebsbereich</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Flugbetriebsgrenzen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>Flugenveloppe</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>Last-Bereich</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>flight envelope</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>condiciones normales de vuelo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>dominio de vuelo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>envolvente de vuelo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>domaine d'évolution</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>domaine de calcul</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>domaine de vol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">4</descrip>
+          </tig>
+          <tig>
+            <term>enveloppe de vol</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>inviluppo (delle condizioni) di volo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>operationele begrenzingen</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>obwiednia warunków lotu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>desenho com as limitações de voo de uma aeronave</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>envelope de utilização</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+          <tig>
+            <term>envolvente de voo</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>anvelopa de zbor</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>flygenvelopp</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-31380">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Großflugzeug</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>großes Luftfahrzeug</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>large aircraft</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>aeronave grande</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>aéronef de moyen à fort tonnage</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+          <tig>
+            <term>aéronef lourd</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>aeromobile con peso massimo al decollo superiore a 5700 Kg</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>groot luchtvaartuig</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>duży statek powietrzny</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>aeronave de grandes dimensões</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>aeronavă de mare capacitate</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>stort luftfartyg</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="IATE-31601">
+        <descripGrp>
+          <descrip type="subjectField">4826</descrip>
+        </descripGrp>
+        <langSet xml:lang="de">
+          <tig>
+            <term>Fehlanflugverfahren</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="en">
+          <tig>
+            <term>missed approach procedure</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="es">
+          <tig>
+            <term>Procedimiento de aproximación frustrada</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="fr">
+          <tig>
+            <term>Procedure d'approche manquée</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>procédure d'approche interrompue</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">1</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="it">
+          <tig>
+            <term>Procedura per avvicinamento mancato</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>procedura di avvicinamento mancato</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="nl">
+          <tig>
+            <term>Procedure voor mislukte nadering</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>afgebroken-naderingsprocedure</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+          <tig>
+            <term>doorstartprocedure</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pl">
+          <tig>
+            <term>procedura po nieudanym podejściu</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="pt">
+          <tig>
+            <term>procedimentos de aproximação falhada</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ro">
+          <tig>
+            <term>procedură de întrerupere a apropierii</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">3</descrip>
+          </tig>
+        </langSet>
+        <langSet xml:lang="sv">
+          <tig>
+            <term>procedur efter avbruten inflygning</term>
+            <termNote type="termType">fullForm</termNote>
+            <descrip type="reliabilityCode">2</descrip>
+          </tig>
+        </langSet>
+      </termEntry>
+    </body>
+  </text>
+</martif>
